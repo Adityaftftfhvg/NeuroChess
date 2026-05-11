@@ -3,7 +3,7 @@
 An interactive chess-playing web application powered by an intelligent AI engine. Play against the computer in real-time with a smooth UI, legal move validation, and strategic decision-making.
 
 ---
-
+Live : https://neuro-chess-nine.vercel.app/
 ## 🚀 Features
 
 * ♟️ **Interactive Chessboard**
