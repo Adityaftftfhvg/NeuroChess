@@ -15,7 +15,7 @@ The application provides:
 * Socratic-style chess coaching
 
 ---
-
+Live: https://neuro-chess-nine.vercel.app/
 ## Features
 
 ### ♟️ Interactive Chess Engine
