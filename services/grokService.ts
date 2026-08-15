@@ -2,7 +2,7 @@ import { AnalysisResult, VibeLevel, HistoricalGame } from "../types";
 
 const GROK_API_URL = "https://api.groq.com/openai/v1/chat/completions";
 const GROK_MODEL = "llama-3.2-90b-vision-preview";
-const GROK_TEXT_MODEL = "llama-3.3-70b-versatile";
+const GROK_TEXT_MODEL = "openai/gpt-oss-120b";
 
 const getHeaders = () => ({
   "Content-Type": "application/json",
